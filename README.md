@@ -1,2 +1,2 @@
-# Miniature-invention
-Programa: Cartas de navidad. 
+# Example
+for a college simple-test.
